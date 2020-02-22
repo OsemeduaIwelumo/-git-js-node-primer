@@ -1,0 +1,25 @@
+{
+  "name": "git-js-node-primer-1",
+  "version": "1.0.0",
+  "description": "Javascript and Version Control Primer in NodeJs Environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsemeduaIwelumo/-git-js-node-primer.git"
+  },
+  "keywords": [
+    "Git",
+    "JavaScript",
+    "Node",
+    "Book-examples"
+  ],
+  "author": "Osemedua Iwelumo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OsemeduaIwelumo/-git-js-node-primer/issues"
+  },
+  "homepage": "https://github.com/OsemeduaIwelumo/-git-js-node-primer#readme"
+}
